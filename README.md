@@ -1,0 +1,1 @@
+Automação com Selenium que realiza login em diversas contas para que as mesmas não fiquem inativas.
